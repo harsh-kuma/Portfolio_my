@@ -29,7 +29,7 @@ function Contact() {
                  />
             </div>
             <div className='flex flex-col mb-4'>
-                <label className='block text-gray-700'>Massage</label>
+                <label className='block text-gray-700'>Message</label>
                 <textarea className='shadow rounded-lg appearance-none border  py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline' type="email"
                   id="name"
                   name="massage"

@@ -33,7 +33,7 @@ function Home() {
                 <div>
                     <ul className='flex space-x-5 mt-3'>
                         <li>
-                            <a href="http://" target="_blank">
+                            <a href="https://github.com/harsh8956" target="_blank">
                             <FaGithub className='text-2xl cursor-pointer'/>
                             </a>
                         </li>
@@ -43,7 +43,7 @@ function Home() {
                         </a>
                         </li>
                         <li>
-                        <a href="http://" target="_blank">
+                        <a href="https://x.com/HarshKum4003?s=09" target="_blank">
                             <FaXTwitter className='text-2xl cursor-pointer' />
                         </a>
                         </li>

@@ -4,7 +4,7 @@ import { RxCross2 } from "react-icons/rx";
 import { Link } from "react-scroll";
 import pic from "../../public/H.png";
 function Navebar() {
-    const [menu,setmenu]=useState(false)
+    const [menu,setmenu]=useState(true)
     const navitem=[
         {
             id:1,
